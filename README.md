@@ -6,7 +6,7 @@ O **Autoflex Ops** é um sistema inteligente de gestão industrial focado no pla
 
 ## 📸 Demonstração do Dashboard
 
-![Dashboard Principal](blob:https://web.whatsapp.com/b347a1a8-d791-48d7-a796-0cd28f4f63cf)
+![Dashboard Principal](![b347a1a8-d791-48d7-a796-0cd28f4f63cf](https://github.com/user-attachments/assets/2e6fecbd-94f0-48fd-ba26-6bfa88f39dd3))
 *Visualização do Painel Geral com sugestões de produção calculadas em tempo real.*
 
 ---
