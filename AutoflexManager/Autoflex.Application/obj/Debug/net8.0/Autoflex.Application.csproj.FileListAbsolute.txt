@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\bin\Debug\net8.0\Autoflex.Application.deps.json
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\bin\Debug\net8.0\Autoflex.Application.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\bin\Debug\net8.0\Autoflex.Application.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\bin\Debug\net8.0\Autoflex.Domain.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\bin\Debug\net8.0\Autoflex.Domain.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.0A371AA6.Up2Date
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\refint\Autoflex.Application.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\Autoflex.Application.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Application\obj\Debug\net8.0\ref\Autoflex.Application.dll

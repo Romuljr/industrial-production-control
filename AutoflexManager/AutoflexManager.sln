@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain", "3. Domain", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation", "1. Presentation", "{CDEFC198-37F9-4509-9F46-596AC39D0AD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Application", "{4A9DE726-76E1-4035-BCF3-E7F209399452}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infrastructure", "4. Infrastructure", "{218483F7-5BDE-411A-8990-31C4608D9656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoflex.Domain", "AutoflexManager.Domain\Autoflex.Domain.csproj", "{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoflex.API", "AutoflexManager.Presentation\Autoflex.API.csproj", "{276A5275-888F-479C-A02E-D2D954E1DB16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoflex.Infrastructure", "Autoflex.Infrastructure\Autoflex.Infrastructure.csproj", "{F326E073-512E-4FA2-B8A5-07388AEB728C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoflex.Application", "Autoflex.Application\Autoflex.Application.csproj", "{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276A5275-888F-479C-A02E-D2D954E1DB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276A5275-888F-479C-A02E-D2D954E1DB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276A5275-888F-479C-A02E-D2D954E1DB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276A5275-888F-479C-A02E-D2D954E1DB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F326E073-512E-4FA2-B8A5-07388AEB728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F326E073-512E-4FA2-B8A5-07388AEB728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F326E073-512E-4FA2-B8A5-07388AEB728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F326E073-512E-4FA2-B8A5-07388AEB728C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBC3F3D9-356F-4BF4-853B-FB538FA9815B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{276A5275-888F-479C-A02E-D2D954E1DB16} = {CDEFC198-37F9-4509-9F46-596AC39D0AD4}
+		{F326E073-512E-4FA2-B8A5-07388AEB728C} = {218483F7-5BDE-411A-8990-31C4608D9656}
+		{66B4D459-2E7D-40C8-95FE-AF58E474DFFB} = {4A9DE726-76E1-4035-BCF3-E7F209399452}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {584C5CE5-4A2E-4B24-9759-855346E5915E}
+	EndGlobalSection
+EndGlobal

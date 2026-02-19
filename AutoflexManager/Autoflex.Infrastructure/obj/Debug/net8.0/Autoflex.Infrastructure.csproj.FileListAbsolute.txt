@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\bin\Debug\net8.0\Autoflex.Infrastructure.deps.json
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\bin\Debug\net8.0\Autoflex.Infrastructure.runtimeconfig.json
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\bin\Debug\net8.0\Autoflex.Infrastructure.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\bin\Debug\net8.0\Autoflex.Infrastructure.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\bin\Debug\net8.0\Autoflex.Domain.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\bin\Debug\net8.0\Autoflex.Domain.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.DB538A1A.Up2Date
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\refint\Autoflex.Infrastructure.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\Autoflex.Infrastructure.genruntimeconfig.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\Autoflex.Infrastructure\obj\Debug\net8.0\ref\Autoflex.Infrastructure.dll

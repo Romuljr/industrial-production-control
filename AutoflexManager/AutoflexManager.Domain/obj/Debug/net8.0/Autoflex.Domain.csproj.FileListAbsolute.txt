@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\bin\Debug\net8.0\Autoflex.Domain.deps.json
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\bin\Debug\net8.0\Autoflex.Domain.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\bin\Debug\net8.0\Autoflex.Domain.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\Autoflex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\Autoflex.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\Autoflex.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\Autoflex.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\Autoflex.Domain.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\refint\Autoflex.Domain.dll
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\Autoflex.Domain.pdb
+C:\Users\USER\Desktop\CursoDotNet\Projects\AutoflexManager\AutoflexManager.Domain\obj\Debug\net8.0\ref\Autoflex.Domain.dll
