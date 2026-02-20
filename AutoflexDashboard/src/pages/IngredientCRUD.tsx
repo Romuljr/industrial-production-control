@@ -7,7 +7,6 @@ export default function IngredientCRUD() {
   const [materials, setMaterials] = useState<RawMaterial[]>([]);
   const [ingredients, setIngredients] = useState<ProductIngredient[]>([]);
   
-  // O formulário agora guarda os IDs, que é o que seu DTO no C# espera
   const [formData, setFormData] = useState({ 
     productId: '', 
     rawMaterialId: '', 
@@ -30,7 +29,6 @@ export default function IngredientCRUD() {
   const handleSave = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      // Enviando ProductId e RawMaterialId conforme seu ProductIngredientDTO
       await api.post('/ProductIngredients', formData);
       setFormData({ productId: '', rawMaterialId: '', requiredQuantity: 0 });
       loadData();
@@ -114,7 +112,6 @@ export default function IngredientCRUD() {
                   <button 
                     onClick={async () => {
                       if(confirm("Remover este vínculo?")) {
-                        // AGORA SIM: Passando os GUIDs na URL conforme seu [HttpDelete("{productId}/{rawMaterialId}")]
                         await api.delete(`/ProductIngredients/${ing.productId}/${ing.rawMaterialId}`);
                         loadData();
                       }

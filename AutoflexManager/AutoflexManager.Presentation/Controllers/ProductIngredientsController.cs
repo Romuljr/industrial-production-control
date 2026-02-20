@@ -14,7 +14,6 @@ namespace Autoflex.API.Controllers
         public ProductIngredientsController(IProductIngredientRepository repository)
             => _repository = repository;
 
-        // READ: Listar todas as associações
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
@@ -32,7 +31,6 @@ namespace Autoflex.API.Controllers
             return Ok(response);
         }
 
-        // READ: Buscar uma associação específica pela chave composta
         [HttpGet("{productId}/{rawMaterialId}")]
         public async Task<IActionResult> GetById(Guid productId, Guid rawMaterialId)
         {
@@ -40,7 +38,6 @@ namespace Autoflex.API.Controllers
             return ingredient == null ? NotFound() : Ok(ingredient);
         }
 
-        // CREATE: Adicionar ingrediente (O seu método, mas com retorno CreatedAtAction)
         [HttpPost]
         public async Task<IActionResult> AddIngredient(ProductIngredientDTO dto)
         {
@@ -58,7 +55,6 @@ namespace Autoflex.API.Controllers
                 ingredient);
         }
 
-        // UPDATE: Atualizar a quantidade necessária
         [HttpPut]
         public async Task<IActionResult> Update(ProductIngredientDTO dto)
         {
@@ -72,7 +68,6 @@ namespace Autoflex.API.Controllers
             return NoContent();
         }
 
-        // DELETE: Remover ingrediente da receita
         [HttpDelete("{productId}/{rawMaterialId}")]
         public async Task<IActionResult> Delete(Guid productId, Guid rawMaterialId)
         {

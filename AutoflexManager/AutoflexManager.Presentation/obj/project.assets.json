@@ -3118,11 +3118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\AutoflexManager.Presentation\\Autoflex.API.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Autoflex.API.csproj",
       "projectName": "Autoflex.API",
-      "projectPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\AutoflexManager.Presentation\\Autoflex.API.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Autoflex.API.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\AutoflexManager.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3143,11 +3143,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\Autoflex.Application\\Autoflex.Application.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\Autoflex.Application\\Autoflex.Application.csproj"
+            "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\Autoflex.Application.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\Autoflex.Application.csproj"
             },
-            "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj"
+            "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj"
             }
           }
         }

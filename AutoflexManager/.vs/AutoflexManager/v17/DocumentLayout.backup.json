@@ -1,9 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\autoflexmanager\\autoflexmanager.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F326E073-512E-4FA2-B8A5-07388AEB728C}|Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflex.infrastructure\\repositories\\productingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F326E073-512E-4FA2-B8A5-07388AEB728C}|Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj|solutionrelative:autoflex.infrastructure\\repositories\\productingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F326E073-512E-4FA2-B8A5-07388AEB728C}|Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflex.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F326E073-512E-4FA2-B8A5-07388AEB728C}|Autoflex.Infrastructure\\Autoflex.Infrastructure.csproj|solutionrelative:autoflex.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}|AutoflexManager.Domain\\Autoflex.Domain.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflexmanager.domain\\interfaces\\iproductingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC3F3D9-356F-4BF4-853B-FB538FA9815B}|AutoflexManager.Domain\\Autoflex.Domain.csproj|solutionrelative:autoflexmanager.domain\\interfaces\\iproductingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}|Autoflex.Application\\Autoflex.Application.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflex.application\\services\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}|Autoflex.Application\\Autoflex.Application.csproj|solutionrelative:autoflex.application\\services\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}|Autoflex.Application\\Autoflex.Application.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflex.application\\interfaces\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}|Autoflex.Application\\Autoflex.Application.csproj|solutionrelative:autoflex.application\\interfaces\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}|Autoflex.Application\\Autoflex.Application.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflex.application\\dtos\\productionsuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B4D459-2E7D-40C8-95FE-AF58E474DFFB}|Autoflex.Application\\Autoflex.Application.csproj|solutionrelative:autoflex.application\\dtos\\productionsuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflexmanager.presentation\\controllers\\productingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|solutionrelative:autoflexmanager.presentation\\controllers\\productingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflexmanager.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|solutionrelative:autoflexmanager.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|c:\\users\\user\\desktop\\cursodotnet\\projects\\projedata\\autoflexmanager\\autoflexmanager.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{276A5275-888F-479C-A02E-D2D954E1DB16}|AutoflexManager.Presentation\\Autoflex.API.csproj|solutionrelative:autoflexmanager.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductIngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Infrastructure\\Repositories\\ProductIngredientRepository.cs",
+              "RelativeDocumentMoniker": "Autoflex.Infrastructure\\Repositories\\ProductIngredientRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Infrastructure\\Repositories\\ProductIngredientRepository.cs",
+              "RelativeToolTip": "Autoflex.Infrastructure\\Repositories\\ProductIngredientRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:11:09.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Autoflex.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Autoflex.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:10:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductIngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Domain\\Interfaces\\IProductIngredientRepository.cs",
+              "RelativeDocumentMoniker": "AutoflexManager.Domain\\Interfaces\\IProductIngredientRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Domain\\Interfaces\\IProductIngredientRepository.cs",
+              "RelativeToolTip": "AutoflexManager.Domain\\Interfaces\\IProductIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:10:45.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductionService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\Services\\ProductionService.cs",
+              "RelativeDocumentMoniker": "Autoflex.Application\\Services\\ProductionService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\Services\\ProductionService.cs",
+              "RelativeToolTip": "Autoflex.Application\\Services\\ProductionService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:10:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductAppService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\Interfaces\\IProductAppService.cs",
+              "RelativeDocumentMoniker": "Autoflex.Application\\Interfaces\\IProductAppService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\Interfaces\\IProductAppService.cs",
+              "RelativeToolTip": "Autoflex.Application\\Interfaces\\IProductAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:10:09.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductionSuggestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\DTOs\\ProductionSuggestionDTO.cs",
+              "RelativeDocumentMoniker": "Autoflex.Application\\DTOs\\ProductionSuggestionDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\Autoflex.Application\\DTOs\\ProductionSuggestionDTO.cs",
+              "RelativeToolTip": "Autoflex.Application\\DTOs\\ProductionSuggestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:09:59.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductIngredientsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Controllers\\ProductIngredientsController.cs",
+              "RelativeDocumentMoniker": "AutoflexManager.Presentation\\Controllers\\ProductIngredientsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Controllers\\ProductIngredientsController.cs",
+              "RelativeToolTip": "AutoflexManager.Presentation\\Controllers\\ProductIngredientsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:09:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AutoflexManager.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AutoflexManager.Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:09:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "AutoflexManager.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\Projedata\\AutoflexManager\\AutoflexManager.Presentation\\Program.cs",
+              "RelativeToolTip": "AutoflexManager.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:08:40.253Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -23,19 +172,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\AutoflexManager.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "AutoflexManager.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CursoDotNet\\Projects\\AutoflexManager\\AutoflexManager.Presentation\\Program.cs",
-              "RelativeToolTip": "AutoflexManager.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T20:28:08.853Z",
-              "EditorCaption": ""
             }
           ]
         },

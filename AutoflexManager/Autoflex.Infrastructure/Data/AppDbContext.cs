@@ -18,17 +18,14 @@ namespace Autoflex.Infrastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Configura a chave primária composta da tabela associativa
             modelBuilder.Entity<ProductIngredient>()
                 .HasKey(pi => new { pi.ProductId, pi.RawMaterialId });
 
-            // Configura o relacionamento Produto -> Ingredientes
             modelBuilder.Entity<ProductIngredient>()
                 .HasOne(pi => pi.Product)
                 .WithMany(p => p.Ingredients)
                 .HasForeignKey(pi => pi.ProductId);
 
-            // Configura o relacionamento Matéria-Prima -> Ingredientes
             modelBuilder.Entity<ProductIngredient>()
                 .HasOne(pi => pi.RawMaterial)
                 .WithMany(rm => rm.ProductIngredients)

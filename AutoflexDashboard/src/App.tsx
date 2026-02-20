@@ -1,17 +1,14 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
-// Importação dos Componentes da Home (Dashboard)
 import ProductionSuggestionList from './components/ProductionSuggestionList';
 import ProductList from './components/ProductList';
 import RawMaterialList from './components/RawMaterialList';
 import IngredientList from './components/IngredientList';
 
-// Importação das Páginas de Gestão
 import ProductCRUD from './pages/ProductCRUD';
 import RawMaterialCRUD from './pages/RawMaterialCRUD';
 import IngredientCRUD from './pages/IngredientCRUD';
 
-// Componente Interno para a Página Inicial (Dashboard)
 function Home() {
   return (
     <div className="space-y-8">

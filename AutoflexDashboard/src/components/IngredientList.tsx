@@ -6,7 +6,7 @@ export default function IngredientList() {
   const [ingredients, setIngredients] = useState<ProductIngredient[]>([]);
 
   useEffect(() => {
-    api.get('/ProductIngredients') // Ajuste para sua rota de receitas
+    api.get('/ProductIngredients') 
       .then(res => setIngredients(res.data))
       .catch(err => console.error(err));
   }, []);

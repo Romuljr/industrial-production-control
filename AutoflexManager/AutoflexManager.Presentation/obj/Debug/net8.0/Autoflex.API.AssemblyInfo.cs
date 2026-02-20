@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Autoflex.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da5862e1b9e4fb154ccdb9e60a2ae0e686500429")]
 [assembly: System.Reflection.AssemblyProductAttribute("Autoflex.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Autoflex.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

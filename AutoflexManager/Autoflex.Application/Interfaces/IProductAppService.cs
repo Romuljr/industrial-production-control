@@ -11,6 +11,5 @@ namespace Autoflex.Application.Interfaces
     {
         Task<IEnumerable<ProductDTO>> GetAllAsync();
         Task AddAsync(ProductDTO dto);
-        // ... outros métodos de CRUD
     }
 }

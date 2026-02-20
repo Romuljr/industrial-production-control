@@ -24,8 +24,8 @@ namespace Autoflex.Infrastructure.Repositories
         public async Task<IEnumerable<ProductIngredient>> GetAllAsync()
         {
             return await _context.ProductIngredients
-                .Include(pi => pi.Product)      // Traz os dados do Produto
-                .Include(pi => pi.RawMaterial)  // Traz os dados da Matéria-Prima
+                .Include(pi => pi.Product)      
+                .Include(pi => pi.RawMaterial)  
                 .ToListAsync();
         }
         public void Update(ProductIngredient ingredient) =>

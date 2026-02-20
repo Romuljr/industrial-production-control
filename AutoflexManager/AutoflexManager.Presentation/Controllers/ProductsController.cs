@@ -19,7 +19,6 @@ namespace Autoflex.API.Controllers
         {
             var products = await _repository.GetAllAsync();
 
-            // Mapeando manualmente (ou use AutoMapper se souber)
             var dto = products.Select(p => new ProductDTO
             {
                 Id = p.Id,
@@ -33,13 +32,10 @@ namespace Autoflex.API.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(Guid id)
         {
-            // 1. Busca do repositório
             var product = await _repository.GetByIdAsync(id);
 
-            // 2. Verifica se existe
             if (product == null) return NotFound();
 
-            // 3. MAPEAMENTO: Transforma Entity em DTO para evitar o ciclo
             var dto = new ProductDTO
             {
                 Id = product.Id,
@@ -47,7 +43,6 @@ namespace Autoflex.API.Controllers
                 Price = product.Price
             };
 
-            // 4. Retorna o DTO (que não tem listas circulares)
             return Ok(dto);
         }
 
